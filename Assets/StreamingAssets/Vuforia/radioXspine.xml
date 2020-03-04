@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="papa-noel" size="600.000000 600.000000" />
+    <ImageTarget name="pt" size="26.000000 18.000000" />
+    <ImageTarget name="pt_rouge_noir" size="756.000000 406.000000" />
+    <ImageTarget name="pt_rouge" size="756.000000 406.000000" />
+  </Tracking>
+</QCARConfig>
